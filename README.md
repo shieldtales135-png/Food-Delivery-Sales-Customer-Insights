@@ -82,5 +82,5 @@ This project analyzes a sample order log of **650+ orders across a 90-day window
 
 ## 👤 Author
 
-**Hariharan Ruthran V**
+** KESAVAN B **
 Naan Mudhalvan Arts Internship Program 2026 — Python for Data Analytics
